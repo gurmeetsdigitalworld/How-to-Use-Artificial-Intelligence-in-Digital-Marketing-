@@ -1,5 +1,5 @@
 # How-to-Use-Artificial-Intelligence-in-Digital-Marketing-
-How to Use Artificial Intelligence in Digital Marketing?
+
 How to Use Artificial Intelligence in Digital Marketing
 The use of artificial intelligence in business operations and practices has become a necessary rite of passage into the 21st century. 47% of digitally mature organizations—those with advanced digital practices—already have a defined AI strategy, and 84% of business executives agree that the incorporation of AI allows their company to sustain a competitive advantage.The widespread reach of AI in digital marketing in 2019 proves the importance of this technology in today’s digital landscape. In this blog post, we’ll go over the impact of artificial intelligence in digital marketing and show you how to leverage the power of AI for your own marketing strategy.
 How Artificial Intelligence Affects Digital Marketing
